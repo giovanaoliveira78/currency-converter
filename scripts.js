@@ -76,8 +76,3 @@ function formatCurrencyBRL(value) {
     currency: "BRL",
   })
 }
-
-
-
-
-
